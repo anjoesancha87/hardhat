@@ -106,3 +106,4 @@ pnpm-lock.json
 
 # Hardhat bundle
 bundle/
+config.bat
